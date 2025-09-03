@@ -79,4 +79,3 @@
 
 ### 📊 Github stats
 ![Linux](https://github-readme-stats.vercel.app/api?username=iShafaey&show_icons=true&theme=nord)
-![Linux](https://github-readme-streak-stats.herokuapp.com/?user=iShafaey&theme=nord)
